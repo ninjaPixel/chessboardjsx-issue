@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ninjapixel/chess": "^1.0.0",
+    "chess.js": "^0.10.2",
     "chessboardjsx": "^2.4.0",
     "lodash": "^4.17.11",
     "react": "^16.8.6",

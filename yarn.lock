@@ -1090,11 +1090,6 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@ninjapixel/chess@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@ninjapixel/chess/-/chess-1.0.0.tgz#a06194e878ad7c1a31dbc4d58f4a711118bebe59"
-  integrity sha512-wxFNAgN71pk/eOGyodqucxlCqFjb1/yoC5fkj6uwGQp/voZ/EAb9dVsepQprDryv315wLQoDAMPK34GwdyZTDQ==
-
 "@nodelib/fs.stat@^1.1.2":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
@@ -2376,6 +2371,11 @@ chardet@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==
+
+chess.js@^0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/chess.js/-/chess.js-0.10.2.tgz#eacefa2067155f87f046e80cc12d2019eef1b81a"
+  integrity sha1-6s76IGcVX4fwRugMwS0gGe7xuBo=
 
 chessboardjsx@^2.4.0:
   version "2.4.0"
