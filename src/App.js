@@ -1,7 +1,7 @@
 import React, {useState, useRef, useEffect} from 'react';
 import logo from './logo.svg';
 import Chessboard from 'chessboardjsx'
-import Chess from '@ninjapixel/chess';
+import Chess from 'chess.js';
 import _ from 'lodash';
 
 import './App.css';
@@ -21,7 +21,7 @@ function App() {
       // setColorToPlay(game.current.turn())
        setTimeout(() => {
         setColorToPlay(game.current.turn());
-      }, 2000);
+      }, 800);
     }
 
   }, [colorToPlay, play]);
