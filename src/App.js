@@ -21,7 +21,7 @@ function App() {
       // setColorToPlay(game.current.turn())
        setTimeout(() => {
         setColorToPlay(game.current.turn());
-      }, 2000);
+      }, 1000);
     }
 
   }, [colorToPlay, play]);
