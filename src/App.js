@@ -32,7 +32,7 @@ function App() {
         <Chessboard
           id="arena"
           position={fen}
-          transitionDuration={500}
+          transitionDuration={200}
           lightSquareStyle={{backgroundColor: '#edf2f7'}}
           darkSquareStyle={{backgroundColor: '#a0aec0'}}
           width={400}
